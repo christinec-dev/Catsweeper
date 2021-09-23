@@ -1,0 +1,145 @@
+body {
+  margin: 0 auto !important;
+  padding: 0;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/002/662/348/original/starry-purple-sky-landscape-vector.jpg);
+  color: #131313 !important;
+}
+
+h5 {
+  font-weight: 600 !important;
+  text-transform: uppercase;
+}
+
+.modal {
+  /* The image used */
+  background-image: url(./assets/city.jpg);
+  height: 100%;
+  font-family: sans-serif; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  margin: 0 auto !important;
+}
+
+.modal-main {
+  background: rgb(238, 214, 250) !important;
+  box-shadow: 4px 4px 10px rgb(221, 159, 203);
+  border-radius: 10px 10px 10px 10px;
+  height: 660px;
+  width: 800px; 
+  padding: 10px; 
+}
+
+.modal-title {
+  font-size: 40px !important;
+  text-transform: uppercase;
+  font-weight: 700 !important;
+}
+
+.modal-btn {
+  background-color: rgb(126, 47, 163) !important;
+  font-size: 18px !important;
+  text-transform: uppercase;
+  font-weight: 700 !important;
+  border: none !important;
+}
+
+.modal-btn:hover {
+  background-color: rgb(221, 159, 203) !important;
+  color: #131313 !important;
+}
+
+.rules {
+  margin-top: 30px;
+  font-size: 19px;
+  border: 3px dashed rgb(126, 47, 163);
+  padding: 10px;background-color: rgb(246, 230, 242);
+}
+
+.modal-body {
+  font-size: 21px;
+  word-spacing: 3px;  
+  font-weight: 500;
+  text-align: justify;
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.game-board {
+  border-left: 20px solid rgb(124, 71, 108);  
+  border-right: 20px solid rgb(124, 71, 108);
+  border-bottom: 20px solid rgb(124, 71, 108);  
+  background-color: rgb(124, 71, 108); 
+  margin-left: 10em;margin-right: 13.7em;
+  margin-top:2em;
+  box-shadow: 2px 2px 10px rgb(221, 159, 203);
+}
+
+.image-win {
+  height: 164px;  
+  width: 300px;
+  background-image: url(./assets/main.png) !important; 
+  background-size:  cover!important;margin-bottom: 12px;
+}
+
+.image-loss {  
+  width: 300px;
+  height: 164px;
+  background-image: url(./assets/main.png) !important; 
+  background-size:  cover!important;margin-bottom: 12px;
+}
+
+.image-misc {
+  height: 164px;  width: 300px;
+  background-image: url(./assets/main.png) !important; 
+  background-size:  cover!important;margin-bottom: 12px;
+}
+
+.square {
+  background-image: url(./assets/main.png) !important; 
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  border-top: 20px solid rgb(124, 71, 108);
+  float: left;
+  line-height: 170px;
+  height: 180px; 
+  width: 300px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.retry-btn {
+  background-color: rgb(221, 159, 203);
+  color: #131313;
+}
+
+.retry-title {
+  text-transform: uppercase;
+}
+
+.retry-btn:hover {
+  background-color: rgb(126, 47, 163) !important;
+  color: #fff;
+}
+
+.hidden {
+  background-image: url(./assets/main.png) !important; 
+  background-size: cover !important;
+  background-repeat: no-repeat !important; line-height: 200px;
+  background-position: center !important;
+  height: 180px; 
+  width: 300px;
+}
+
+.clear {
+  clear: both;
+  content: ""
+}
