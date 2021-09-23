@@ -1,28 +1,32 @@
-# Catsweeper 🔮 
-With a busy schedule and little time, there's not enough minuites in the day to get my React practice in! that's why I decided to make a simple game just to keep myself on track. Thus, CATSWEEPER was born!
+# Catsweeper🐱
+With a busy schedule and little time, it feels like there's not enough minutes in the day to get my React practice in! That's why I decided to make a simple game just to keep myself on track. Thus, **_CATSWEEPER_** was born!💣💣💣
 
-It's a play on the classic Minesweeper game. Instead of mining and avoiding bombs, you are helping the game find fifteen lost kitties - but you have to avoid the dogs or else you lose your kitties forever (ie. you get bombed and game over!).
+It's a play on the classic Minesweeper game, but instead of mining and avoiding bombs, you are taksed to run from apartment to apartment to find fifteen lost kitties - but you have to avoid the angry neighborhood dogs or else you will lose your kitties forever (ie. you get bombed and game over!). 
 
- <h5>Game Rules</h5>
-          <ul>
-            <li>The game works similar to dogsweeper.</li>
-            <li>Click on an apartment door to find a kitty.</li>
-            <li>Each door will either have a kitty or a doggo.</li>
-            <li>Each game outcome will give you a prize.</li>
-            <li>If you find a doggo, it's GAME OVER!</li>
-            <li>If you find all fifteen kitties, you WIN!</li>
-          </ul>
+### GAME RULES
+- The game works similar to Minesweeper.
+- Click on an apartment door to find a kitty.
+- Each door will either have a kitty or a doggo.
+- Each game outcome will give you a PRIZE.
+- If you find a doggo, it's **GAME OVER**!
+- If you find all fifteen kitties, you **WIN**!
 
-Day x (I've lost count, oof) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, CSS and Bootstrap.
+Day x (I've lost count, oof) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, CSS and Bootstrap. All the graphics were made by me with the help of different clipart compilations (credit below).
 
 ## Main Display
+![image](https://user-images.githubusercontent.com/87696858/134524373-6e93fe91-85bd-4410-a366-1a70308959b8.png)
 
 ## Game Load
+![image](https://user-images.githubusercontent.com/87696858/134524389-1c62df2a-99e5-4c61-b44e-de4814db6fbd.png)
+
+## Game Selection
+![image](https://user-images.githubusercontent.com/87696858/134524490-2a3098df-d030-4a4d-b54e-3d70a7147701.png)
 
 ## Game Won
+![image](https://user-images.githubusercontent.com/87696858/134524415-545ad78b-2bf6-497d-a830-e9c96fad4283.png)
 
 ## Game Lost
-
+![image](https://user-images.githubusercontent.com/87696858/134524434-38a02bb4-1298-4393-bbfe-047879ccb4c3.png)
 
 # Getting Started with Create React App
 
@@ -94,4 +98,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Main Background Image: https://www.teahub.io/photos/full/361-3611051_sci-fi-pixel-art-city.jpg
+Game Background Image: https://www.vecteezy.com/vector-art/2662348-starry-purple-sky-landscape
+Clipart: https://www.pngaaa.com/
+
 "# Catsweeper" 
