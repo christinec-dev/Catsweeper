@@ -1,7 +1,7 @@
 # Catsweeper🐱
-With a busy schedule and little time, it feels like there's not enough minutes in the day to get my React practice in! That's why I decided to make a simple game just to keep myself on track. Thus, **_CATSWEEPER_** was born!💣💣💣
+With a busy schedule and little time, it feels like there are not enough minutes in the day to get my React practice in! That's why I decided to make a simple game just to keep myself on track. Thus, CATSWEEPER was born!💣💣💣
 
-It's a play on the classic Minesweeper game, but instead of mining and avoiding bombs, you are taksed to run from apartment to apartment to find fifteen lost kitties - but you have to avoid the angry neighborhood dogs or else you will lose your kitties forever (ie. you get bombed and game over!). 
+It's a play on the classic Minesweeper game, but instead of mining and avoiding bombs, you are tasked to run from apartment to apartment to find fifteen lost kitties - but you have to avoid the angry neighborhood dogs or else you will lose your kitties forever (ie. you get bombed and game over!).
 
 ### GAME RULES
 - The game works similar to Minesweeper.
