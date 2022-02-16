@@ -14,7 +14,7 @@ It's a play on the classic Minesweeper game, but instead of mining and avoiding 
 Day x (I've lost count, oof) of trying to code in React on my own was a success. I completed it with the following: React, JavaScript, CSS and Bootstrap. All the graphics were made by me with the help of different clipart compilations (credit below).
 
 ## Try It Via The Demo Link ## 
-[Link to Heroku](catsweeper-c.herokuapp.com/)
+[Catweeper Game](catsweeper-c.herokuapp.com/)
 
 ## Main Display
 ![image](https://user-images.githubusercontent.com/87696858/134524373-6e93fe91-85bd-4410-a366-1a70308959b8.png)
