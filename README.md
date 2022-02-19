@@ -15,6 +15,7 @@ Day x (I've lost count, oof) of trying to code in React on my own was a success.
 
 ## 💣 Play Via Demo Link  💣 ## 
 [Catweeper Game](catsweeper-c.herokuapp.com/)
+#### **Please note that if the app does not load or gives an error, just reload the page and Heroku will work again. Sorry for any inconveniece :) ####
 
 ## Main Display
 ![image](https://user-images.githubusercontent.com/87696858/134524373-6e93fe91-85bd-4410-a366-1a70308959b8.png)
